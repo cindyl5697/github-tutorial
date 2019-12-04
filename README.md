@@ -4,8 +4,10 @@ _by Cindy Li_
 
 ---
 ## Git vs. GitHub
-Git is a version control system, that helps you keep track of changes of file over time. EX. **"Git is a version control system which "tracks changes" for code."**
+Git is a version control system, that helps you keep track of changes of file over time. EX. **"Git is a version control system which "tracks changes" for code."**.
+
 GitHub is a cloud that help make things easier to work with. Github allows us to see all of our repositories in one area and manage them (share,reply,edit,and track them, etc) in one place.
+
 The difference between Git and Github is that Git is a local system while Github is a "Cloud" that you can share, reply, edit and track codes that you have created.
 
 
