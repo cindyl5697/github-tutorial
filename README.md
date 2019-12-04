@@ -40,6 +40,15 @@ The difference between Git and Github is that Git is a local system while Github
 ## Workflow & Commands
 * **git init** - Initialize the terminial
 * **git add file** - Add to the staging area
-*  **git commit -m "message"** - Permanently stores changes from the staging area inside the repository by a message
-*  **git diff** - Checks difference between the working directory  and the staging area
-*  **git log** - Chronologically on the resportitory. Shows all previous commits
+* **git commit -m "message"** - Permanently stores changes from the staging area inside the repository by a message
+* **git diff** - Checks difference between the working directory  and the staging area
+* **git log** - Chronologically on the resportitory. Shows all previous commits
+* **git commit -m "message"** - Permanently stores changes from the staging area inside the repository by a message
+* **git diff** - Checks difference between the working directory  and the staging area
+* **git log** - Chronologically on the resportitory. Shows all previous commits
+* **git checkout -- file** - Rewrite the line but forgot the exact. Discard changes in working directory
+* **git reset HEAD file** - Able to upstage the file from the staging area
+* **git status** - To see when it was last commited. It can also use for a command to see which files have been edited since the last commit (they will be red) or a command to see which files are staged for the commit (they will be green)
+* **git revert** - Works by undoing changes that were made in the specified by commit by creating another new commit and not actually removing any previous commits. This is ideal for published changes because the true history of the repo is preserved.
+
+
