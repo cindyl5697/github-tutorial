@@ -25,7 +25,8 @@ The difference between Git and Github is that Git is a local system while Github
 * By creating a new repository, you have to first go to [github](github.com).
 * On the upper right corner, you click the "**+**" sign.
 * Then you click "**New repository**" and create the repository name (make sure to be the exact same thing that you create in your IDE).
-* Once you press "**create**", you go to your [IDE](www.ide.cs50.io)
+* Once you press "**create**", now you go to your [IDE](www.ide.cs50.io)
+
 * Once you're in your IDE, start by:
 * Go home by using **cd ~**.
 * Then go to github-learning by using **cd github-learning**.
@@ -48,7 +49,7 @@ The difference between Git and Github is that Git is a local system while Github
 ---
 ## Workflow & Commands
 * **git init** - Initialize the terminial
-*  * git init helps you init into github so you can add your information into github.com
+*  * git init helps you initialize the terminial into github so you can add your information into github.com
 * **git add file** - Add to the staging area
   * git add file helps you add your file in to the staging area so the ide know where you put your information.
 * **git commit -m "message"** - Permanently stores changes from the staging area inside the repository by a message
@@ -62,4 +63,9 @@ The difference between Git and Github is that Git is a local system while Github
 * **git status** - To see when it was last commited. It can also use for a command to see which files have been edited since the last commit (they will be red) or a command to see which files are staged for the commit (they will be green)
 * **git revert** - Works by undoing changes that were made in the specified by commit by creating another new commit and not actually removing any previous commits. This is ideal for published changes because the true history of the repo is preserved.
 
+To add your IDE into your github
+* you first git init, git init helps you initialize the terminial into github so you can add your information into github.com.
+* then you git add file, git add file (most likely git add README.md), git add file helps you add your file in to the staging area so the ide know where you put your information.
+* after git add file, you git commit -m, it helps you add a permanently stores change by adding a message.
+* then you git push, git push allow you to push your ide into your github.
 
