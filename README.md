@@ -64,8 +64,8 @@ The difference between Git and Github is that Git is a local system while Github
 * **git revert** - Works by undoing changes that were made in the specified by commit by creating another new commit and not actually removing any previous commits. This is ideal for published changes because the true history of the repo is preserved.
 
 To add your IDE into your github
-* you first git init, git init helps you initialize the terminial into github so you can add your information into github.com.
-* then you git add file, git add file (most likely git add README.md), git add file helps you add your file in to the staging area so the ide know where you put your information.
-* after git add file, you git commit -m, it helps you add a permanently stores change by adding a message.
-* then you git push, git push allow you to push your ide into your github.
+* You first git init, git init helps you initialize the terminial into github so you can add your information into github.com.
+* Then you git add file, git add file (most likely git add README.md), git add file helps you add your file in to the staging area so the ide know where you put your information.
+* After git add file, you git commit -m, it helps you add a permanently stores change by adding a message.
+* Then you git push, git push allow you to push your ide into your github.
 
