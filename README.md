@@ -70,3 +70,7 @@ The difference between Git and Github is that Git is a local system while Github
 * After git add file, you git commit -m, it helps you add a permanently stores change by adding a message.
 * Then you git push, git push allow you to push your ide into your github.
 
+### Feedback 
+ You did really well at explaining the steps.
+ You provided links to further help the user so good.
+ I suggest you to add more italics. 
